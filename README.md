@@ -14,7 +14,7 @@ The concepts covered here are:
 - gcc (Ubuntu 4.8.4-2ubuntu1~14.04.4) 4.8.4
 - C language understanding
 
-## :sunglasses: Author
+## :sunglasses: Authors
 - **Gonzalo Gomez Millan**
 
   [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/gogomillan)
